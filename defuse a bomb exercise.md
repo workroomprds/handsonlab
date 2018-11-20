@@ -23,15 +23,16 @@ For a positive experience, it’s best to start with the most-basic bomb in the 
 
 Be aware that this can be a surprisingly stressful game, particularly for the defuser.
 
+## Process
 *Setup:* Take 3-5 mins to explain idea, show manual, show a bomb. Allow defuser to get familiar with controls / moving the bomb. Allow “experts” to familiarise themselves with the manual.
 
-*Debrief:* 5-10 mins at end. Aim for 3 rules, written up, to share. Heading: “Narrow, Asymmetric Communications”
-
-## Process
+*Repeat:* 
 * For each bomb, play game against the clock. 5 mins per bomb is the game default.
 * Perhaps have an observer / clock manager / guide.
 
 *Turnaround:* short debrief – “what will we keep” / “what shall we try next” / “what just happened?” / “what was different”. Consider swapping defuser. Consider stress on individuals. Allow group to reflect, set approach, take on roles.
+
+*Debrief:* 5-10 mins at end. Aim for 3 rules, written up, to share. Heading: “Narrow, Asymmetric Communications”
 
 Watch for…
 * The ways that roles emerge
