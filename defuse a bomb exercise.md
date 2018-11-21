@@ -50,7 +50,7 @@ Watch for…
 Consider where this applies in testing, and illustrate by linking the comms principles (on the poster) to specific testing contexts and actions.
 
 ## Out at
-* Trials in London (James at John Lewis)
+* Trials in London (James at ASOS)
 * Agile Testing Days 2018 Work And Play (James and Bart)
 * EuroSTAR 2018 Hands-On Lab (James and Bart)
 
