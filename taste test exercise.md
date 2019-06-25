@@ -2,6 +2,8 @@
 
 *Basics:* Taste Test - develop your judgement and palette. Using chocolate.
 
+*About:* Building a quality aesthetic – a consious value system that helps you to compare and rank
+
 *Source:* Experimentation and Diagnosis workshop
 
 *Output:* Picture of different dimensions of assessment, and where participants preferences fall. To act as a trigger / example for conversations about quality.

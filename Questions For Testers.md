@@ -1,6 +1,13 @@
-+++
-Title = "Questions for Testers"
-+++
+# Questions for Testers
+
+*Basics:* A card game to get testers talking
+
+*About:* Small connections help people become closer
+
+*Source:* Sussed cards game
+
+*Output:* A room full of conversations
+
 A short game to help testers build connections.
 
 Make a group. Distribute cards. Take turns. Each turn, one of you reads a question, and its options, out loud – then chooses one option, privately.

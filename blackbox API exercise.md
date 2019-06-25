@@ -1,6 +1,8 @@
 # BlackBox API
 *Basics:* Explore black box puzzles with an automated tool over an api.
 
+*About:* How different intetrfaces tell you different things. Exploring an API.
+
 *Source:* an existing workshop, new puzzles.
 
 *Aim:* Tiny tools to run many tests. 
